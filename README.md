@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Nami
 
-<img src="giphy.gif" width="250" />
+<img src="giphy1.gif" width="250" />
 
 ### 🎓 BSIT Student  
 💻 Passionate about Web Development & UI/UX Design  
