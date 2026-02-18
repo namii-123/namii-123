@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Nami
 
-<!--
-**namii-123/namii-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="giphy.gif" width="250">
 
-Here are some ideas to get you started:
+🎓 BSIT Student  
+💻 Interested in Web Development and UI/UX Design  
+🌱 Currently learning JavaScript, React, and Backend Development  
+🔭 Working on improving my frontend and system development skills  
+👯 Open to collaborating on student projects and beginner-friendly open source  
+💬 Ask me about HTML, CSS, basic JavaScript, and system design  
+📫 How to reach me: maytyler2002@gmial.com
+⚡ Fun fact: I enjoy turning simple ideas into clean and functional designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
